@@ -2,3 +2,5 @@ mnemonic.txt
 app.log
 package-lock.json
 node_modules
+autoRef.js
+autoRunRef.js
